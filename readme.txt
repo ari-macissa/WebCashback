@@ -1,6 +1,6 @@
 WebCashback (desafio back-end)
 Desenvolvido por Ariclines Massissa Antonio (ari.macissa@gmail.com)
-
+  
 
 Dados gerais do projeto:
 
@@ -26,7 +26,7 @@ Rotas:
 
 2.0 Rota para fazer login: https://localhost:5001/api/revendedor/login
 2.1 Método: POST
-2.3 JSON modelo no corpo da requisição:
+2.2 JSON modelo no corpo da requisição:
 {
 "Email":"ari.macissa@gmail.com",
 "Senha":"abcd1234"
